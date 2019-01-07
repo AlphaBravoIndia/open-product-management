@@ -69,12 +69,11 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  - [X] [What exactly is a Product Manager? ](http://www.mindtheproduct.com/2011/10/what-exactly-is-a-product-manager/) - Martin Eriksonn
  - [X] [What is Product Management?](http://www.sachinrekhi.com/blog/2013/01/28/what-is-product-management) - Sachin Rekhi
  - [X] [PM at Microsoft](http://blogs.msdn.com/b/techtalk/archive/2005/12/16/504872.aspx) - Steven Sinofsky
- - [ ] [Product Manager You Are…](https://medium.com/@matbalez/product-manager-you-are-664d83ee702e) - Mat Balez
- - [ ] [What Product Management is Not](http://www.svpg.com/what-product-management-is-not/) - Marty Cagan
- - [ ] [Does the world need Product Managers any more](http://branch.com/b/does-the-world-need-product-managers-any-more) - Multiple authors
- - [ ] [Product Management vs. Product Marketing](http://www.svproduct.com/product-management-vs-product-marketing/) - Marty Cagan
- - [ ] [Evolution of the Product Manager](http://queue.acm.org/detail.cfm?id=2683579) - Ellen Chisa
- - [ ] [Use your Product Powers for Good](http://www.productpowers.com/blog/use-your-product-powers-for-good.html) - Bruce McCarthy
+ - [X] [Product Manager You Are…](https://medium.com/@matbalez/product-manager-you-are-664d83ee702e) - Mat Balez
+ - [X] [What Product Management is Not](http://www.svpg.com/what-product-management-is-not/) - Marty Cagan
+ - [X] [Product Management vs. Product Marketing](http://www.svproduct.com/product-management-vs-product-marketing/) - Marty Cagan
+ - [X] [Evolution of the Product Manager](http://queue.acm.org/detail.cfm?id=2683579) - Ellen Chisa
+ - [X] [Use your Product Powers for Good](http://www.productpowers.com/blog/use-your-product-powers-for-good.html) - Bruce McCarthy
  - [ ] [Product Management: An introduction for undergraduates and graduates](https://product.careers/presentation/) - Thor Mitchell
  - [ ] [What It Takes to Become a Great Product Manager](http://hbr.org/2017/12/what-it-takes-to-become-a-great-product-manager) - Julia Austin
  - [ ] [MVPM: Minimum Viable Product Manager](https://blackboxofpm.com/mvpm-minimum-viable-product-manager-e1aeb8dd421) - Brandon Chu
