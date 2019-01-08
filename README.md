@@ -75,13 +75,12 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  - [X] [Evolution of the Product Manager](http://queue.acm.org/detail.cfm?id=2683579) - Ellen Chisa
  - [X] [Use your Product Powers for Good](http://www.productpowers.com/blog/use-your-product-powers-for-good.html) - Bruce McCarthy
  - [X] [Product Management: An introduction for undergraduates and graduates](https://product.careers/presentation/) - Thor Mitchell
- - [ ] [What It Takes to Become a Great Product Manager](http://hbr.org/2017/12/what-it-takes-to-become-a-great-product-manager) - Julia Austin
- - [ ] [MVPM: Minimum Viable Product Manager](https://blackboxofpm.com/mvpm-minimum-viable-product-manager-e1aeb8dd421) - Brandon Chu
+ - [X] [What It Takes to Become a Great Product Manager](http://hbr.org/2017/12/what-it-takes-to-become-a-great-product-manager) - Julia Austin
+ - [X] [MVPM: Minimum Viable Product Manager](https://blackboxofpm.com/mvpm-minimum-viable-product-manager-e1aeb8dd421) - Brandon Chu
 
  ### Is it really for you?
- - [ ] [How to hire a Product Manager?](https://www.kennethnorton.com/essays/productmanager.html) - Kenneth Norton
- - [ ] [The DNA of Product Management](https://www.linkedin.com/pulse/article/20121102003945-7298-the-dna-of-product-management) - Hunter Walk
- - [ ] [The Dark Side of PM](http://blog.ellenchisa.com/2014/02/20/the-dark-side-of-pm/) - Ellen Chisa
+ - [X] [How to hire a Product Manager?](https://www.kennethnorton.com/essays/productmanager.html) - Kenneth Norton
+ - [X] [The Dark Side of PM](http://blog.ellenchisa.com/2014/02/20/the-dark-side-of-pm/) - Ellen Chisa
  - [ ] [Do I need to be technical to be a PM](http://blog.ellenchisa.com/2014/10/04/need-technical-pm/) - Ellen Chisa
  - [ ] [Ode to a Non Technical Product Manager](https://medium.com/@hunterwalk/ode-to-a-non-technical-product-manager-7776efb98acd) - Hunter Walk
  - [ ] [3 Skillsets for PM Success](http://blog.kentonkivestu.com/3-skillsets-for-PM-success) - Kenton Kivetsu
